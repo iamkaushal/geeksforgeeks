@@ -21,7 +21,7 @@ int main()
 	int key;
 	cin >> key;
 
-	cout << "Element found at index : " << searchInRotatedArray(arr, key, 0, n-1);
+	cout << "Element found at index : " << searchInRotatedArray(arr, key, 0, n - 1);
 
 	return 0;
 }
